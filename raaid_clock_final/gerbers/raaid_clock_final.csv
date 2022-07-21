@@ -1,6 +1,6 @@
 "Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
-1;"TP11,TP10,TP9,TP8,TP7,TP6,TP5,TP4,TP3,TP2,TP1";"TestPoint_THTPad_D2.0mm_Drill1.0mm";11;"TestPoint";;;
-2;"H4,H2,H3,H1";"MountingHole_3.2mm_M3";4;"MountingHole";;;
+1;"H4,H2,H3,H1";"MountingHole_3.2mm_M3";4;"MountingHole";;;
+2;"TP3,TP11,TP8,TP7,TP1,TP6,TP9,TP10,TP4,TP2,TP5";"TestPoint_THTPad_D2.0mm_Drill1.0mm";11;"TestPoint";;;
 3;"R9,R12,R10,R11,R2";"R_0805_2012Metric";5;"R_0805_10K";;;
 4;"C8,C1,C3,C7,C2";"C_0805_2012Metric";5;"C_0805_0.1uf";;;
 5;"C9";"C_0805_2012Metric";1;"C_0805_10uf";;;

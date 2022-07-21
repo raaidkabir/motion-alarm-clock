@@ -1,7 +1,7 @@
 Ref,Val,Package,PosX,PosY,Rot,Side
 "BT1","Battery_Cell","BatteryHolder_Keystone_106_1x20mm",-1.377953,0.708662,180.000000,bottom
 "J1","Conn_01x06","PinHeader_1x06_P2.54mm_Vertical",-1.079528,3.051181,-90.000000,bottom
-"J2","Power_inlet_vertical","Wurth-694106402002",-4.822835,0.508661,-90.000000,bottom
+"J2","Power_inlet_vertical","Wurth-694106402002",-4.763780,0.570866,-90.000000,bottom
 "BZ1","Buzzer","Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm",0.787402,1.673228,0.000000,top
 "C1","C_0805_0.1uf","C_0805_2012Metric",4.527559,2.952756,180.000000,top
 "C2","C_0805_0.1uf","C_0805_2012Metric",4.330709,2.952756,180.000000,top
